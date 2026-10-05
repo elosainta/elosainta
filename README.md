@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.svg" alt="elosainta — Full-Stack Developer · Computer Science Student · Application Security" width="100%"></p>
+<p align="center"><img src="banner.svg" alt="elosainta — Full-Stack Engineer · Security-Minded · Building for Small Business" width="100%"></p>
 
 ## About Me
 Independent full-stack developer and computer science student. I design, build and maintain
