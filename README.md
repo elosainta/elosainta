@@ -1,5 +1,24 @@
+<p align="center"><img src="banner.svg" alt="edaian — Full-Stack Developer · Computer Science Student · Application Security" width="100%"></p>
+
 # 💫 About Me:
-Solo full-stack developer · Student · Into computer security
+Full-stack developer and computer science student. I work alone, which means I own every
+layer: schema, server, interface, deployment, and the 3 a.m. incident.
+
+**How I work**
+- **Correctness over cleverness.** Financial and inventory data must reconcile. I write tests
+  for every path that touches money or stock.
+- **Boring infrastructure.** Containerised services, reproducible deploys, automated backups.
+  Nothing fails silently.
+- **Security by default.** Least-privilege services, secrets kept out of code, confirmation
+  gates on every irreversible action.
+- **Software for real users.** Kitchen staff and business owners, not demos.
+
+**Selected work**
+| Project | Description | Stack |
+|---|---|---|
+| Fable Kitchen OS *(private)* | Kitchen and operations management for a restaurant, in production | Laravel, MariaDB, Docker |
+| [Inventory & Sales System](https://github.com/elosainta/inventory-sales-management-system) | Inventory, production and costing with LLM-assisted invoice scanning | Laravel, Tailwind, Claude API |
+| Bukku Integration *(private)* | Telegram bot and MCP server linking operations to accounting | Python, httpx, systemd |
 
 
 ## 🌐 Socials:
