@@ -10,6 +10,7 @@ production systems for small businesses, owning every layer from database to dep
 | Fable Kitchen OS *(private)* | Kitchen and operations management for a restaurant, in production | Laravel, MariaDB, Docker |
 | [Inventory & Sales System](https://github.com/elosainta/inventory-sales-management-system) | Inventory, production and costing with LLM-assisted invoice scanning | Laravel, Tailwind, Claude API |
 | Bukku Integration *(private)* | Telegram bot and MCP server linking operations to accounting | Python, httpx, systemd |
+| [Notes for Android](https://github.com/elosainta/notetakingapp) | Offline-first notes app with folders, tags and full-text search | Kotlin, Jetpack Compose, Room, Hilt |
 
 ## Tech Stack
 | Area | Tools |
