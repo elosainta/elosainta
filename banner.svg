@@ -60,7 +60,7 @@
 
     <text x="72" y="216" class="sans" font-size="21" fill="#d6f5f2">Full-Stack Developer <tspan fill="#ff4f8b">·</tspan> Computer Science Student <tspan fill="#ff4f8b">·</tspan> Application Security</text>
 
-    <text x="72" y="262" class="mono" font-size="15" fill="#a9cfcb"><tspan fill="#ffb35c">$</tspan> building production systems for real businesses<tspan class="cursor" fill="#ffb35c"> ▍</tspan></text>
+    <text x="72" y="262" class="mono" font-size="15" fill="#a9cfcb"><tspan fill="#ffb35c">$</tspan> shipping secure, reliable software end to end<tspan class="cursor" fill="#ffb35c"> ▍</tspan></text>
 
     <text x="1128" y="282" class="mono" font-size="12" letter-spacing="2" fill="#a8708f" text-anchor="end">LARAVEL / PYTHON / DOCKER</text>
   </g>
