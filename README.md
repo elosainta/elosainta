@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.svg" alt="edaian — Full-Stack Developer · Computer Science Student · Application Security" width="100%"></p>
+<p align="center"><img src="banner.svg" alt="elosainta — Full-Stack Developer · Computer Science Student · Application Security" width="100%"></p>
 
 ## About Me
 Full-stack developer and computer science student. I work alone, which means I own every
