@@ -4,15 +4,6 @@
 Full-stack developer and computer science student. I work alone, which means I own every
 layer: schema, server, interface, deployment, and the 3 a.m. incident.
 
-**How I work**
-- **Correctness over cleverness.** Financial and inventory data must reconcile. I write tests
-  for every path that touches money or stock.
-- **Boring infrastructure.** Containerised services, reproducible deploys, automated backups.
-  Nothing fails silently.
-- **Security by default.** Least-privilege services, secrets kept out of code, confirmation
-  gates on every irreversible action.
-- **Software for real users.** Kitchen staff and business owners, not demos.
-
 **Selected work**
 | Project | Description | Stack |
 |---|---|---|
