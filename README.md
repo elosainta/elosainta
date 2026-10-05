@@ -23,8 +23,8 @@ production systems for small businesses, owning every layer from database to dep
 
 ## Activity
 <p align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=elosainta&show_icons=true&hide_rank=true&hide=issues&include_all_commits=true&card_width=400&bg_color=1a0c18&title_color=ff4f8b&text_color=d6f5f2&icon_color=ffb35c&border_color=3d1530&border_radius=10">
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=elosainta&layout=compact&langs_count=6&card_width=400&bg_color=1a0c18&title_color=ff4f8b&text_color=d6f5f2&icon_color=ffb35c&border_color=3d1530&border_radius=10">
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=elosainta&show_icons=true&hide_rank=true&hide=issues&include_all_commits=true&custom_title=GitHub%20Stats&card_width=400&bg_color=1a0c18&title_color=ff4f8b&text_color=d6f5f2&icon_color=ffb35c&border_color=3d1530&border_radius=10">
+  <img width="49%" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=elosainta&layout=compact&langs_count=6&custom_title=Top%20Languages&card_width=400&bg_color=1a0c18&title_color=ff4f8b&text_color=d6f5f2&icon_color=ffb35c&border_color=3d1530&border_radius=10">
 </p>
 <p align="center"><img src="contributions.svg" alt="Contribution activity" width="100%"></p>
 
